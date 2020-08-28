@@ -1,8 +1,8 @@
-# Stock Market Analysis for Technology Corporations in 2019
+# Stock Market Analysis for Technology Corporations 
 
 ## Overview
 
-An analysis project about stock market of five technology corporations: Apple, Google, Microsoft, Amazon and Intel throughout 2019. The data is imported from Yahoo Finance using Pandas Data Reader.
+An analysis project about stock market of five technology corporations: Apple, Google, Microsoft, Amazon and Intel throughout the years. The data is according to New York Stock Exchange (NYSE) American and National Association of Securities Dealers Automated Quotations (Nasdaq) and imported from Yahoo Finance using Pandas Data Reader. 
 
 ## Data Dictionary
 
@@ -26,12 +26,6 @@ Abbreviation:
 
 
 ## Variable Notes
-
-Date: 
-
-- Start Date: 1 January 2019
-
-- End Date: 31 December 2019
 
 All currencies are in US Dollars (USD).
 
