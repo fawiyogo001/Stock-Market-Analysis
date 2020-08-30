@@ -8,6 +8,12 @@ An analysis project about stock market of five technology corporations: Apple, G
 
 <br>
 
+Tools: Datetime, Matplotlib, Numpy, Pandas, Scipy, Seaborn
+
+Categories: Bootstrap Method, Data Analysis, Data Visualization, Forecasting, Monte-Carlo Simulation, Risk Management, Statistics, Time-Series
+
+<br>
+
 ## Data Dictionary
 
 Abbreviation:
@@ -34,4 +40,8 @@ Abbreviation:
 ## Variable Notes
 
 All currencies are in US Dollars (USD).
+
+<br>
+
+
 
