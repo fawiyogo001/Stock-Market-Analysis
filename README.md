@@ -1,8 +1,12 @@
 # Stock Market Analysis for Technology Corporations 
 
+<br>
+
 ## Overview
 
 An analysis project about stock market of five technology corporations: Apple, Google, Microsoft, Amazon and Intel throughout the years. The data is according to New York Stock Exchange (NYSE) American and National Association of Securities Dealers Automated Quotations (Nasdaq) and imported from Yahoo Finance using Pandas Data Reader. 
+
+<br>
 
 ## Data Dictionary
 
@@ -14,6 +18,8 @@ Abbreviation:
 - AMZN: Amazon
 - INTC: Intel
 
+<br>
+
 | Variable  | Definition                                                   |
 | :-------- | :----------------------------------------------------------- |
 | High      | A security's intraday highest trading price (The highest price at which a stock traded during the course of the trading day) |
@@ -23,7 +29,7 @@ Abbreviation:
 | Volume    | The amount of an asset or security that changes hands over the course of a day |
 | Adj Close | Adjusted Closing Price which reflects that stock's value after accounting for any corporate actions |
 
-
+<br>
 
 ## Variable Notes
 
