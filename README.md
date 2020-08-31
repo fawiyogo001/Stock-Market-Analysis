@@ -1,16 +1,18 @@
-# Stock Market Analysis for Technology Corporations 
+# **Stock Market Analysis for Technology Corporations **
 
 <br>
 
 ## Overview
 
-An analysis project about stock market of five technology corporations: Apple, Google, Microsoft, Amazon and Intel throughout the years. The data is according to New York Stock Exchange (NYSE) American and National Association of Securities Dealers Automated Quotations (Nasdaq) and imported from Yahoo Finance using Pandas Data Reader. 
+<div style="text-align: justify"> 
+    An analysis project about stock market of five technology corporations: Apple, Google, Microsoft, Amazon and Intel throughout the years. The data is according to New York Stock Exchange (NYSE) American and National Association of Securities Dealers Automated Quotations (Nasdaq) and imported from Yahoo Finance using Pandas Data Reader. 
+</div>
 
 <br>
 
-Tools: Datetime, Matplotlib, Numpy, Pandas, Scipy, Seaborn
+**Tools**: Datetime, Matplotlib, Numpy, Pandas, Scipy, Seaborn
 
-Categories: Bootstrap Method, Data Analysis, Data Visualization, Forecasting, Monte-Carlo Simulation, Risk Management, Statistics, Time-Series
+**Categories**: Bootstrap Method, Data Analysis, Data Visualization, Forecasting, Monte-Carlo Simulation, Risk Calculation, Statistics, Time-Series
 
 <br>
 
