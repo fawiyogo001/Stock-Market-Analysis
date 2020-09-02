@@ -18,7 +18,7 @@
 
 ## Data Dictionary
 
-Abbreviation:
+**Abbreviation**:
 
 - AAPL: Apple
 - GOOG: Google
