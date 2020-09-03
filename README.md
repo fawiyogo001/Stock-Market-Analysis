@@ -1,4 +1,4 @@
-# **Stock Market Analysis for Technology Corporations **
+# **Stock Market Analysis for Technology Corporations**
 
 <br>
 
