@@ -1,4 +1,4 @@
-# **Stock Market Analysis **
+# <b>Stock Market Analysis</b>
 
 <br>
 
