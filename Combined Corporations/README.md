@@ -1,0 +1,1 @@
+If the github code viewer does not work, please view the code <a href = 'https://nbviewer.jupyter.org/github/fawiyogo001/Stock-Market-Analysis/blob/master/Combined%20Corporations/Apple%2C%20Google%2C%20Microsoft%2C%20Amazon%2C%20Intel-2019.ipynb'>here</a>
