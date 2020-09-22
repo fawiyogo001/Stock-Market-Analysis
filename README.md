@@ -5,8 +5,9 @@
 ## Overview
 
 <div style="text-align: justify"> 
-    An analysis project about stock market of five technology corporations: Apple, Google, Microsoft, Amazon and Intel throughout the years. The data is according to New York Stock Exchange (NYSE) American and National Association of Securities Dealers Automated Quotations (Nasdaq) and imported from Yahoo Finance using Pandas Data Reader. 
+    An analysis project about stock market of corporations throughout the years. The data is according to New York Stock Exchange (NYSE) American and National Association of Securities Dealers Automated Quotations (Nasdaq) and imported from Yahoo Finance using Pandas Data Reader. 
 </div>
+
 
 <br>
 
